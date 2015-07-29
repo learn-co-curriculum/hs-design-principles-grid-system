@@ -1,9 +1,4 @@
----
-tags: kids, web design, intro, design principles, grid
-language: html, css
-level: 1
-type: resources
----
+
 
 ##Design Principles - The Grid System
 Want to learn more about the grid system, proportions and the golden rule? Here are some resources:
