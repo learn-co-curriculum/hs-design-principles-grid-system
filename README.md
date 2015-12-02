@@ -12,3 +12,5 @@ Want to learn more about the grid system, proportions and the golden rule? Here 
 ### Bonus
 Do as I say not as I do...
 + [The ugliest website about design principles](http://char.txa.cornell.edu/language/principl/principl.htm)
+
+<a href='https://learn.co/lessons/hs-design-principles-grid-system' data-visibility='hidden'>View this lesson on Learn.co</a>
